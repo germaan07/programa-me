@@ -46,7 +46,7 @@ public class Pant2 {
                                             moreTwoLetters = true;
                                             System.out.println("NO");
                                             cont = false;
-                                            j = columDe8
+                                            j = columDe8;
                                             i = filasDe8;
                                         }
                                     }
