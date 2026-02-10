@@ -18,6 +18,7 @@ public class Pant2 {
                 char[][] pantalla = new char[n][m];
                 for (int fila = 0; fila < n; fila++) {
                     for (int columna = 0; columna < m; columna++) {
+                        System.out.print("Letra: ");
                         char letra = sc.next().charAt(0);
                         pantalla[fila][columna] = letra;
                     }
