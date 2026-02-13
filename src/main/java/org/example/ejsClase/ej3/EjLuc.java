@@ -1,4 +1,4 @@
-package org.example.ej3;
+package org.example.ejsClase.ej3;
 import java.util.Scanner;
 public class EjLuc{
     public static void main(String[] args){

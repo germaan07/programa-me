@@ -1,4 +1,4 @@
-package org.example.ej4;
+package org.example.ejsClase.ej4;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package org.example.ej2;
+package org.example.ejsClase.ej2;
 import java.util.Scanner;
 public class EjRec{
     public static void main(String[] args){
