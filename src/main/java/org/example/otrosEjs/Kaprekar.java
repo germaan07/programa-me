@@ -67,7 +67,7 @@ public class Kaprekar {
         for(int n : num){
             if (n < max){
                 if (n > min){
-                    if (num[1])
+                   // if (num[1])
                 }
             }
         }
